@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Act7_CourseLevrier/1.0.0": {
+        "runtime": {
+          "Act7_CourseLevrier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act7_CourseLevrier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

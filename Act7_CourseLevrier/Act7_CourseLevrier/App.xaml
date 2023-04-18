@@ -1,0 +1,10 @@
+﻿<Application x:Class="Act7_CourseLevrier.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Act7_CourseLevrier"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <BitmapImage x:Key="dog" UriSource="Images/dog.png"></BitmapImage>
+        <BitmapImage x:Key="Race" UriSource="Images/racetrack.png"></BitmapImage>
+    </Application.Resources>
+</Application>
